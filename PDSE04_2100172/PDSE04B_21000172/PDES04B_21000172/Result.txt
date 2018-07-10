@@ -1,0 +1,3 @@
+node수 : 7 
+height 수 : 3 
+full binary입니다. 

@@ -1,3 +1,3 @@
 # ECE20017_Data_strcuture
 
-Fall semester, Fall - Handong Global University
+Fall semester, 2012 - Handong Global University
